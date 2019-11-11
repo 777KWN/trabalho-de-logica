@@ -61,7 +61,7 @@ public class TELA1 extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 3, 18)); // NOI18N
-        jLabel1.setText("quem e o subordinado de orotimaro");
+        jLabel1.setText("quem e o subordinado de orochimaro");
 
         jButton1.setText("kabuto");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
